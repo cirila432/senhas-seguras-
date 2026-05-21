@@ -91,10 +91,11 @@ body{
 }
 
 .parametro-senha__botao{
-    
-}
+  background-color: var(--cor-de-fundo);
+color: var(--borda);
+border: 2px solid va;
 .parametro-senha__texto{
-    
+
 }
 
 @media screen and (min-width: 768px) {
