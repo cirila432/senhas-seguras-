@@ -1,1 +1,3 @@
-document.querySelector("."parametro-senha__texto"")
+cont numeroSenha=document.querySelector("."parametro-senha__texto"");
+
+numeroSenha.textContent = 5;
