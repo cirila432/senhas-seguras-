@@ -2,8 +2,8 @@
 
 
 :root{
-    --branco: white;
-    --cor-de-fundo: #e91919;
+    --branco: rgba(231, 117, 145, 0.945);
+    --cor-de-fundo: #f39f9f;
     --fundo-senha: #0c2f8f;
     --fundo-texto: #eedcdc;
     --borda: #f7f8f8;
